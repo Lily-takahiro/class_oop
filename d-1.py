@@ -1,5 +1,4 @@
 import math
-from turtle import circle
 
 
 class Circle:
